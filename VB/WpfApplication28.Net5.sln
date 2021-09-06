@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WpfApplication28", "WpfApplication28\WpfApplication28.vbproj", "{AB88419E-1C7B-4472-AF2F-2E77A84B0A11}"
+# Visual Studio 16
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WpfApplication28", "WpfApplication28\WpfApplication28.Net5.vbproj", "{AB88419E-1C7B-4472-AF2F-2E77A84B0A11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
