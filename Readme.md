@@ -6,7 +6,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/DXSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication28/MainWindow.xaml))
+* [MainWindow.xaml](./CS/DXSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXSample/MainWindow.xaml))
 
 <!-- default file list end -->
 # How to provide custom images for checked/unchecked states in CheckEdit
